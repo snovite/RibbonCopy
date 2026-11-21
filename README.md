@@ -37,3 +37,12 @@ Actively maintained. New collections and improvements may be added over time.
 
 Made with creativity and care. 🎀
 
+---
+
+## © Copyright
+
+Copyright © 2026 RibbonCopy. All rights reserved.
+
+Unauthorised reproduction, redistribution or commercial
+use of this project's source code and assets is prohibited.
+
